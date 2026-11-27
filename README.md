@@ -2,11 +2,10 @@
 
 **Product Engineer** · Ingeniero en Informática (UNLaM) · Product Owner en [Xubio](https://xubio.com)
 
-Trabajo en el cruce entre producto e ingeniería: hago discovery con usuarios, defino qué construir y lo llevo a producción.
-En Xubio lidero producto sobre APIs públicas, integraciones (Mercado Pago, Mercado Libre, Tiendanube, ARCA) y open finance.
-Fuera de ahí construyo productos completos para clientes reales.
+Trabajo en producto hace varios años. Hoy soy PO en Xubio, en un equipo de API e integraciones.
+Fuera de eso desarrollo proyectos web para clientes, de punta a punta.
 
-Desarrollo con un flujo **AI-native**: Claude Code, agentes, skills propias y desarrollo guiado por specs (OpenSpec, `CLAUDE.md` / `AGENTS.md` como contexto compartido del equipo).
+Programo con Claude Code: primero escribo una spec de cada funcionalidad y después la desarrollo con agentes.
 
 ---
 
