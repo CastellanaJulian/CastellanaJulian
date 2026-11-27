@@ -2,7 +2,7 @@
 
 **Product Engineer** · Ingeniero en Informática (UNLaM) · Product Owner en [Xubio](https://xubio.com)
 
-Trabajo en producto hace varios años. Hoy soy PO en Xubio, en un equipo de API e integraciones.
+Trabajo en producto hace varios años. Hoy soy Product Owner en Xubio.
 Fuera de eso desarrollo proyectos web para clientes, de punta a punta.
 
 Programo con Claude Code: primero escribo una spec de cada funcionalidad y después la desarrollo con agentes.
